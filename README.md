@@ -79,7 +79,8 @@
 	
 	> 6.启动前端子项目，请确保已安装了npm
 	
-	> 	cd QQZoneSwipper & npm install --save & npm run start
+	> 	cd QQZoneSwipper & 
+	
 	
 	> 7.浏览器里输入地址: [http://localhost:80](http://localhost:80)
 
